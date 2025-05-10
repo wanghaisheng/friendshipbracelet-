@@ -1,3 +1,10 @@
+上传图片解读模式 
+
+生成模式 
+
+浏览模式 
+
+
 Okay, let's break down how you can use AI prompting, keeping in mind the current limitations and strengths of AI image generation, to create SVG *inspiration* or even *code* for knitting/crochet charts.
 
 **Challenge:** Most current large image generation AIs (Midjourney, DALL-E 3, Stable Diffusion) excel at creating **raster images** (pixels) based on descriptions of scenes, styles, and objects. They are generally **not designed** to directly output clean, structured **SVG code**, especially for something as specific and rule-based as a knitting chart which requires precise grid alignment and symbolic representation. Directly asking for a "beautiful SVG knitting chart" might give you a *picture* of a chart, but likely not usable SVG code.
